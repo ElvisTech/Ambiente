@@ -11,3 +11,16 @@
 /home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.dll
 /home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.pdb
 /home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.genruntimeconfig.cache
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.exe
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.deps.json
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.runtimeconfig.json
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.runtimeconfig.dev.json
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.dll
+C:\Users\elvis\Documents\GitHub\Ambiente\bin\Release\netcoreapp3.1\Ambiente.pdb
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.csprojAssemblyReference.cache
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.AssemblyInfoInputs.cache
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.AssemblyInfo.cs
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.dll
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.pdb
+C:\Users\elvis\Documents\GitHub\Ambiente\obj\Release\netcoreapp3.1\Ambiente.genruntimeconfig.cache

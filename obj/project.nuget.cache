@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CFcNdoXKnIhffgWFm3mLQnhAQFWd+DLfpOc4Y51Ga4bRz+po6qZ82JCU3UmAsXk0pb+M5r+YGDxtgIZeccpI/Q==",
+  "dgSpecHash": "Yaexv85gIYsD+Kbb9/YdV4ZkkTjn9gupF/B59ZtFgq8sbcocIcA2RfdqD6x2oyOZGk+TKNrY6KSKe6txvEtPMA==",
   "success": true,
-  "projectFilePath": "/home/user0/Devs/Ambiente/Ambiente.csproj",
+  "projectFilePath": "C:\\Users\\elvis\\Documents\\GitHub\\Ambiente\\Ambiente.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
