@@ -1,0 +1,13 @@
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente.deps.json
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente.runtimeconfig.json
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente.runtimeconfig.dev.json
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente.dll
+/home/user0/Devs/Ambiente/bin/Release/netcoreapp3.1/Ambiente.pdb
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.csprojAssemblyReference.cache
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.AssemblyInfoInputs.cache
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.AssemblyInfo.cs
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.csproj.CoreCompileInputs.cache
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.dll
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.pdb
+/home/user0/Devs/Ambiente/obj/Release/netcoreapp3.1/Ambiente.genruntimeconfig.cache
